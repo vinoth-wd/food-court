@@ -1,0 +1,43 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+.nav-item {
+  text-transform: uppercase;
+}
+.heading {
+  color: rgb(167, 24, 24);
+}
+.meals-pics {
+  display: flex;
+  justify-content: center;
+}
+.meals-pics img {
+  border-radius: 50%;
+  padding: 35px;
+}
+.home-page {
+  background-image: linear-gradient(rgb(206, 198, 198), khaki);
+  width: 100%;
+  height: 100%;
+}
+.about-page{
+  background-image: linear-gradient(rgb(212, 212, 212), burlywood);
+  width: 100%;
+  height: 100%;
+ 
+}
+.title-img{
+
+  width: 400px;
+  height: 480px ;
+}
+
+.title-div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card{
+  margin-bottom: 20px;
+ 
+}
